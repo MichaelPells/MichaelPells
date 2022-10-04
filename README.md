@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m @MichaelPells!
+- 📍 Welcome to my base!
+- 👀 I’m interested in software and the web.
+- 🌱 Open to software development projects.
+- 📧 Got me something? You should say hi 👋 to me @ themichaelpells@gmail.com.
